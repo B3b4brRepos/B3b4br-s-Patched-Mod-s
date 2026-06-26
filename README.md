@@ -3,7 +3,7 @@ Patched Minecraft mods to work on different versions.  All credits go to the ori
 
 
 ⚠️ DISCLAIMER
-- All original code belongs to all of thr creators who made these mods
+- All original code belongs to all of the creators who made these mod's. 
 - I do not claim ownership of these mods
-- These are modified versions for compatibility purposes only
+- These are modified versions for compatibility purposes only.
 - Please support the original creators on Modrinth!
